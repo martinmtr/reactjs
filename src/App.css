@@ -1,0 +1,23 @@
+body{background-image: url(./img/danielle-stein-BzbvXXl5_SA-unsplash.jpg);
+ background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  min-height: 120vh;}
+
+
+h2{font-size: 50px;
+text-align: center;
+padding-top: 20px;
+color: rgb(241, 240, 241);
+background-color: rgba(155, 151, 151, 0.466);}
+
+.itemListConteiner{display: flex;
+flex-wrap: wrap;}
+
+
+
+
+
+
+
