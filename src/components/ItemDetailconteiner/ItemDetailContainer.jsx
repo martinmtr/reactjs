@@ -15,7 +15,7 @@ function ItemDetailContainer() {
   }, [idParam]);
 
   if (product.loading) {
-    return <p>Cargando producto...</p>;
+    return <p>Cargando producto....</p>;
   }
 
   return (

@@ -64,5 +64,37 @@ const productos = [
     imagen: "https://www.enduroleon.com/shop/98443-large_default/botas-alpinestars-tech-10-super-ventilada-blanca-roja.jpg",
     categoria:"Botas",
   },
+  {
+    id:9,
+    nombre:"Botas AXO",
+    descripcion:"El material sintético duradero de la bota resiste el desgaste, requiere menos roturas y conserva su forma durante más tiempo",
+    precio:450000,
+    imagen:"https://m.media-amazon.com/images/I/51xyqGcTtJL._AC_SX425_.jpg",
+    categoria:"Botas",
+  },
+    {
+    id: 10,
+    nombre: "Jersey fox",
+    descripcion: "El tejido con evacuación de la humedad aporta un estilo suave y ligero, además de absorber el sudor para mantener el cuerpo fresco y seco.",
+    precio: 72000,
+    imagen: "https://http2.mlstatic.com/D_NQ_NP_647185-MLA52871320870_122022-O.webp", 
+    categoria:"Jersey",
+  },
+   {
+    id: 11,
+    nombre: "Pecheras MX-Profame",
+    descripcion: "Proframe LC es el único protector de su tipo que es 100% compatible con el soporte del cuello y se ajusta rápidamente para adaptarse a todo tipo de cuerpo. El ajuste de perfil bajo, el sistema de hebilla integrado y el panel posterior extraíble se suman a una impresionante lista de ventajas.",
+    precio: 170000,
+    imagen: "https://http2.mlstatic.com/D_NQ_NP_685707-MLA44529810314_012021-O.webp",
+    categoria: "Pecheras", 
+  },
+   {
+    id: 12,
+    nombre: "Casco Enduro Ride-X",
+    descripcion: "Si sos piloto de motocross o enduro, este casco es para vos. Está especialmente diseñado para este tipo de prácticas, ya que te ofrece mayor confort y seguridad en situaciones exigentes y de alto riesgo.",
+    precio: 195000,
+    imagen: "https://http2.mlstatic.com/D_NQ_NP_669882-MLU69393509015_052023-O.webp", 
+    categoria: "Cascos" ,
+  },
 ];
 export default productos
